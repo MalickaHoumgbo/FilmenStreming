@@ -121,7 +121,7 @@
             <Button
                 android:id="@+id/FavButton"
                 android:layout_width="wrap_content"
-                android:layout_height="40dp"
+                android:layout_height="50dp"
                 android:text="Ajouter aux favoris"
                 android:layout_gravity="center"
                 android:textColor="@color/white"
