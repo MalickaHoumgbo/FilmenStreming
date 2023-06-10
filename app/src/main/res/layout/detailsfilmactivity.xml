@@ -24,7 +24,7 @@
                 android:id="@+id/moviedetails_title_textview"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 android:textSize="30dp"
                 android:textStyle="bold"
                 android:gravity="center"/>
